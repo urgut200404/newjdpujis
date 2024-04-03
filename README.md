@@ -1,0 +1,2 @@
+# newjdpujis
+Jismoniy tarbiya boyicha
