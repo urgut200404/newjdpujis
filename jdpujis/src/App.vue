@@ -22,9 +22,8 @@ import { onMounted, ref, computed } from "vue";
 // window.mdb = mdb;
 let spins = ref(true);
 let sp = onMounted(async () => {
- setInterval(() => {
-    spins.value=false;
- }, 1500);
+  spins.value=false;
+
 })
 
 sp();
